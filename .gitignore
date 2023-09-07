@@ -1,3 +1,4 @@
 venv/
 .vscode/
 output.xlsx
+output*.xlsx
